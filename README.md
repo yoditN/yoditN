@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoditN
+- 👋 Hi, I’m @LinaN
 - 👀 I’m interested in ...Learning Front&Back End
 - 🌱 I’m currently learning ...JAVA,C++,ALGORTHM,Css,Html,Datsbase,php,React,flutter......
 - 💞️ I’m looking to collaborate on ...Web and Android app 
